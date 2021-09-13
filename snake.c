@@ -109,7 +109,7 @@ void	game()
 {
 	//the function in C delays the program execution
 	//this function slows down the movement of the snake so the game can be playable
-	sleep(0.9);
+	sleep(0.2);
 	//player movements
 	switch (pos)
 	{
